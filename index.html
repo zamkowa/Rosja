@@ -117,7 +117,7 @@
         function aktualizujKwote() {
             const kwota = obliczOdsetki();
             document.getElementById("reparacje-amount").textContent = formatujKwote(kwota);
-            document.getElementById("data-obecna").textContent = "Stan na: " + new Date().toLocaleDateString('pl-PL');
+            document.getElementById("data-obecna").textContent = "Состояние на: " + new Date().toLocaleDateString('pl-PL');
         }
 
         setInterval(aktualizujKwote, 1000);
