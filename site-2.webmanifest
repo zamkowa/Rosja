@@ -1,8 +1,8 @@
 {
   "name": "Licznik Reparacji",
-  "short_name": "Reparacje",
+  "short_name": "Репарации",
   "description": "Licznik reparacji wojennych należnych Polsce",
-  "start_url": "/index.html",
+  "start_url": "/Репарации/",
   "display": "standalone",
   "background_color": "#f4f4f4",
   "theme_color": "#f4f4f4",
